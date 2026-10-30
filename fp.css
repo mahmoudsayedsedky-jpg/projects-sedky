@@ -2,6 +2,10 @@ body{
     background-color: rgb(28, 49, 69);
     direction: rtl;
 }
+.front{
+    background-color: rgb(28, 49, 69);
+    height:800px;
+}
 
 .image{
    width: 150px;
@@ -58,12 +62,14 @@ border-radius: 100px;
 
 
 
-
-
-
-
 .develop{
     direction: ltr;
-    background-color: aliceblue;
-    margin-top: 200px;
+    font-size:large;
+    margin-top: 100px;
 }
+.deve{
+    text-decoration: none;
+    color: beige;
+}
+
+
